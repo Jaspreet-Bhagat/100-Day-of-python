@@ -1,0 +1,5 @@
+Password Generator Project
+ the python in build function we used:-
+ random.choice(): This function is like having a magical hat filled with various options. You can reach into the hat and randomly pick one item. In our code, random.choice() helps us select a random element from a list of letters, symbols, or numbers. It adds an element of surprise and randomness to our password generation.
+
+ random.shuffle(): Imagine you have a deck of cards, and you want to shuffle them to create a random order. random.shuffle() does exactly that, but not just for cards, for any sequence of items. It takes a sequence, like a list, and randomly rearranges its elements. In our code, we use random.shuffle() to shuffle the characters in our generated password. It adds an extra level of unpredictability to our password, making it harder to guess.
